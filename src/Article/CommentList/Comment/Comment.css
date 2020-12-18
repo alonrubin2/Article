@@ -1,0 +1,13 @@
+.Comment {
+    text-align: left;
+    margin: 20px;
+}
+
+div {
+    margin: 5px;
+}
+
+.author {
+    font-size: 16px;
+    font-weight: 700;
+}
